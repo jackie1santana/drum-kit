@@ -1,6 +1,6 @@
 # Drum kit Application using Vanilla Typescript
 
-creating drum sounds triggered from key events
+creating drum sounds triggered from key events listening to the transitionend properties on all key data attributes
 
 ### How to run application
 
